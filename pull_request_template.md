@@ -1,6 +1,6 @@
 # Descripción 
 ¿Qué ha cambiado? 
 
-- []  Frontend
-- []  Frontend
-- []  Frontend
+- [ ]  Frontend
+- [ ]  Frontend
+- [ ]  Frontend
